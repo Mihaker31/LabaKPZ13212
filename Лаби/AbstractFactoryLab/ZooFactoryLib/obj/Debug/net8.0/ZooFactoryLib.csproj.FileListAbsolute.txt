@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\bin\Debug\net8.0\ZooFactoryLib.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\bin\Debug\net8.0\ZooFactoryLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\bin\Debug\net8.0\ZooFactoryLib.pdb
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\ZooFactoryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\ZooFactoryLib.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\ZooFactoryLib.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\ZooFactoryLib.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\ZooFactoryLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\refint\ZooFactoryLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\ZooFactoryLib.pdb
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\ref\ZooFactoryLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\AbstractFactoryLab\ZooFactoryLib\obj\Debug\net8.0\ZooFacto.64B4DDFC.Up2Date
