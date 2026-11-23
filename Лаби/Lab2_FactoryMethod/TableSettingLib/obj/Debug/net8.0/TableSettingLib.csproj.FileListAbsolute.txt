@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\bin\Debug\net8.0\TableSettingLib.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\bin\Debug\net8.0\TableSettingLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\bin\Debug\net8.0\TableSettingLib.pdb
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\TableSettingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\TableSettingLib.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\TableSettingLib.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\TableSettingLib.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\TableSettingLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\refint\TableSettingLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\TableSettingLib.pdb
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\ref\TableSettingLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\Lab2_FactoryMethod\TableSettingLib\obj\Debug\net8.0\TableSet.4EF15E43.Up2Date
