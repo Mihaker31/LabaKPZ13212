@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TableAdapterWinForms/1.0.0": {
+        "dependencies": {
+          "TableAdapterLib": "1.0.0"
+        },
+        "runtime": {
+          "TableAdapterWinForms.dll": {}
+        }
+      },
+      "TableAdapterLib/1.0.0": {
+        "runtime": {
+          "TableAdapterLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TableAdapterWinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TableAdapterLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
