@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\bin\Debug\net8.0\WordGameProxyLib.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\bin\Debug\net8.0\WordGameProxyLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\bin\Debug\net8.0\WordGameProxyLib.pdb
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\WordGameProxyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\WordGameProxyLib.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\WordGameProxyLib.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\WordGameProxyLib.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\WordGameProxyLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\refint\WordGameProxyLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\WordGameProxyLib.pdb
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\ref\WordGameProxyLib.dll
+C:\Users\User\OneDrive\Рабочий стол\Лаби\ЛР9\WordGameProxyLib\obj\Debug\net8.0\WordGame.9CB8F9B3.Up2Date
