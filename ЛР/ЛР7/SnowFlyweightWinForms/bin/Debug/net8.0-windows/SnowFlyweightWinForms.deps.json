@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SnowFlyweightWinForms/1.0.0": {
+        "dependencies": {
+          "SnowFlyweightLib": "1.0.0"
+        },
+        "runtime": {
+          "SnowFlyweightWinForms.dll": {}
+        }
+      },
+      "SnowFlyweightLib/1.0.0": {
+        "runtime": {
+          "SnowFlyweightLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnowFlyweightWinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SnowFlyweightLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
