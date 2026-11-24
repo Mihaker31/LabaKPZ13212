@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BuildingVisualApp/1.0.0": {
+        "dependencies": {
+          "BuildingPatternsLib": "1.0.0"
+        },
+        "runtime": {
+          "BuildingVisualApp.dll": {}
+        }
+      },
+      "BuildingPatternsLib/1.0.0": {
+        "runtime": {
+          "BuildingPatternsLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuildingVisualApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildingPatternsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
